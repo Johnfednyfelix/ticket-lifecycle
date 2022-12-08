@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/aHBrKfA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The end users first open up a ticket requesting help based on the tpoics listed.
+The end users first open up a ticket requesting help based on the topics listed.
 </p>
 <br />
 
