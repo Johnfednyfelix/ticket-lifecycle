@@ -38,15 +38,14 @@ The end users first open up a ticket requesting help based on the topics listed.
 <img src="https://i.imgur.com/6E83ZKx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The tickets put in by the end users then get assigned to a department/and agent that specifically can solve their problem. The agent converse with the customer in regards to the customer's problem.
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/Ilcruas.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>The agent assigned to resolve the ticket informs the customer of what is being done to fix their issue. 
 </p>
 <br />
 
@@ -54,6 +53,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/11Ab8Oa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the problem is solved the agent lets the customer know that their problem has finally been solved and then proceeds to close out the ticket.
 </p>
 <br />
